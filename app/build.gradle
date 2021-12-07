@@ -8,8 +8,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        // applicationId "cn.com.longene.yundong"
-        applicationId "com.fruitbasket.audioplatform"
+        applicationId "cn.com.longene.yundong"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
